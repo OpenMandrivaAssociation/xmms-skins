@@ -11,7 +11,6 @@ License: GPL
 URL: http://www.xmms.org/
 Source: xmms-skins.tar.bz2
 Group: Sound
-Icon: xmms-skins-logo.xpm
 Requires: xmms unzip
 Buildroot: %{_tmppath}/%{name}-%{version}
 BuildArchitectures: noarch
