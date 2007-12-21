@@ -12,6 +12,7 @@ URL: http://www.xmms.org/
 Source: xmms-skins.tar.bz2
 Group: Sound
 Requires: xmms unzip
+Buildroot: %{_tmppath}/%{name}-%{version}
 BuildArchitectures: noarch
 
 %description
