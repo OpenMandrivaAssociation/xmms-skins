@@ -1,7 +1,7 @@
 %define name xmms-skins
 %define version 1.0.0
 %define prefix %{_prefix}
-%define release %mkrel 19
+%define release %mkrel 20
 
 Name: %{name}
 Summary: XMMS - Skins
