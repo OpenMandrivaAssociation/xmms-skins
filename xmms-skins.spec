@@ -8,7 +8,7 @@ Summary: XMMS - Skins
 Version: %{version}
 Release: %{release}
 License: GPL
-URL: http://www.xmms.org/
+URL: https://www.xmms.org/
 Source: xmms-skins.tar.bz2
 Group: Sound
 Requires: xmms unzip
